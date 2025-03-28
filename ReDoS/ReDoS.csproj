@@ -1,0 +1,14 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFrameworks>net9.0;net8.0</TargetFrameworks>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="PCRE.NET" Version="1.2.0" />
+    <PackageReference Include="RE2.Managed" Version="4.5.7" />
+  </ItemGroup>
+
+
+</Project>
